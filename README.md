@@ -53,9 +53,14 @@
 
 
 ## Output:
-![Screenshot (5)](https://github.com/22003264/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119389139/f90e8228-3fed-4b84-808f-28c15d62b618)
-![Screenshot (6)](https://github.com/22003264/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119389139/6696860e-71c7-4827-90d1-ea35f4b554de)
-![Uploading Screenshot (7).png…]()
+![WhatsApp Image 2023-06-13 at 18 34 55](https://github.com/22003264/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119389139/10b32ec2-54a4-4f56-85ea-6196acdcd25e)
+
+![Uploading image.png…]()
+
+
+
+![WhatsApp Image 2023-06-13 at 18 34 56](https://github.com/22003264/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119389139/3180b4c7-2545-489e-aec2-74876b049685)
+
 
 ### Name: Sirisha Reddy
 ### Register Number: 212222230103
