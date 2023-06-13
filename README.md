@@ -55,7 +55,8 @@
 ## Output:
 ![WhatsApp Image 2023-06-13 at 18 34 55](https://github.com/22003264/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119389139/10b32ec2-54a4-4f56-85ea-6196acdcd25e)
 
-![Uploading image.png…]()
+
+
 
 
 
