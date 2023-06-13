@@ -53,10 +53,12 @@
 
 
 ## Output:
+![Screenshot (5)](https://github.com/22003264/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119389139/f90e8228-3fed-4b84-808f-28c15d62b618)
+![Screenshot (6)](https://github.com/22003264/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119389139/6696860e-71c7-4827-90d1-ea35f4b554de)
+![Uploading Screenshot (7).png…]()
 
-
-### Name:
-### Register Number: 
+### Name: Sirisha Reddy
+### Register Number: 212222230103
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
